@@ -1,11 +1,6 @@
 <div align="center">
-	 
-	 
-	 
-	<div><b>An experimental Bitcoin CopyCat blockchain network</b></div>
-	 
 	<br/>
- 
+	<img src="./assets/genesis block.png"/>
 	<br/>
 	<div><b>An experimental smart contract blockchain network</b></div>
 	<br/>
